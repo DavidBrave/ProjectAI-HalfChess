@@ -75,6 +75,7 @@ namespace Project_AI_Half_Chess
         {
             InitializeComponent();
 
+            //tes comment
 
             SetMoves();
             SetComponents();
